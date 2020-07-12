@@ -76,6 +76,7 @@ Expandable Backpack | In Progress | expandablebackpack
 Extra Cells | Textures from 1.7 | extracells
 Extra Utilities 2 | Textures from 1.10 | extrautils2 / minecraft
 Extreme Reactors | Textures from 1.10 | bigreactors
+Farlanders | Textures from 1.16.1 | farlanders
 Flat Colored Blocks | In Progress | flatcoloredblocks
 Flux Networks | Not Implemented | calculator / fluxnetworks / sonarcore
 Forestry | In Progress | forestry
